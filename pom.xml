@@ -52,7 +52,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>RozetkaTest</mainClass>
+                            <mainClass>ua.kiev.prog.RozetkaTest</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -75,7 +75,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>RozetkaTest</mainClass>
+                            <mainClass>ua.kiev.prog.RozetkaTest</mainClass>
                         </manifest>
                     </archive>
                     <finalName>Automation-Framework-Dep</finalName>
